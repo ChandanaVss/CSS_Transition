@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.header1{
+    /* border: 2px solid; */
+    height: 160px;
+    display: flex;
+    gap: 700px;
+    padding: 30px;
+    word-spacing: 50px;
+}
+
+
+a{
+    font-size: 22px;
+    padding: 40px;
+}
+
+h1{
+    padding:100px 0px;
+}
+
+.sec1{
+    height: 700px;
+    background-image: url("https://images.squarespace-cdn.com/content/v1/534444fbe4b0f9ffdd2ebc61/1510865753375-O920VEO53BXI0M5DHPDK/Ray+Romano+nyc+brooklyn+hamptons+renovation+construction+combinations+COOP+UES+luxury.jpg?format=2500w");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.sec2{
+    text-align: left;
+    width: 650px;
+    margin-left: 400px;
+}
+
+
+.footer1{
+    background-color: black;
+    height: 80px;
+}
+
+
+.p1{
+    text-align: center;
+    padding: 30px;
+    color: white;
+}
